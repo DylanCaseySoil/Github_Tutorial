@@ -10,7 +10,7 @@
  If we have an analog sensor such as a trimpot or flex sensor on A0, this code would attempt
  to read it and output it to the terminal at 9600bps.
 */
-
+//fart
 void setup()
 {
   Serial.begin(9600);
@@ -29,4 +29,3 @@ void loop()
 
   delay(250);
 }
-
